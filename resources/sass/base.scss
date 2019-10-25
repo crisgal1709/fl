@@ -1,0 +1,332 @@
+@import "syntaxhighlight";
+@import "node_modules/bootstrap/scss/bootstrap";
+
+body {
+  padding-bottom: 20px;
+}
+
+.container {
+  width: 1140px;
+}
+
+html {
+  min-width: 1140px;
+}
+
+[v-cloak] {
+  display: none;
+}
+
+svg.icon {
+  width: 1rem;
+  height: 1rem;
+}
+
+.header {
+  border-bottom: solid 1px $header-border-color;
+
+  svg.logo {
+    width: 1.7rem;
+    height: 1.7rem;
+  }
+}
+
+.sidebar .nav-item {
+  a {
+    color: $sidebar-nav-color;
+    padding: 0.5rem 0rem;
+
+    svg {
+      width: 1rem;
+      height: 1rem;
+      margin-right: 15px;
+      fill: $sidebar-icon-color;
+    }
+
+    &.active {
+      color: $primary;
+
+      svg {
+        fill: $primary;
+      }
+    }
+  }
+}
+
+.card {
+  box-shadow: 0 2px 3px $card-shadow-color;
+  border: none;
+
+  .bottom-radius {
+    border-bottom-left-radius: $card-border-radius;
+    border-bottom-right-radius: $card-border-radius;
+  }
+
+  .card-header {
+    padding-top: 0.7rem;
+    padding-bottom: 0.7rem;
+    background-color: $card-cap-bg;
+    border-bottom: none;
+
+    .btn-group {
+      .btn {
+        padding: 0.2rem 0.5rem;
+      }
+    }
+
+    h5 {
+      margin: 0;
+    }
+  }
+
+  .table {
+    th, td {
+      padding: 0.75rem 1.25rem;
+    }
+
+    &.table-sm {
+      th, td {
+        padding: 1rem 1.25rem;
+      }
+    }
+
+    th {
+      background-color: $table-headers-color;
+      font-weight: 400;
+      padding: .5rem 1.25rem;
+      border-bottom: 0;
+    }
+
+    &:not(.table-borderless) {
+      td {
+        border-top: 1px solid $table-border-color;
+      }
+    }
+
+    &.penultimate-column-right {
+      th:nth-last-child(2), td:nth-last-child(2) {
+        text-align: right;
+      }
+    }
+
+    th.table-fit, td.table-fit {
+      width: 1%;
+      white-space: nowrap;
+    }
+  }
+}
+
+.fill-text-color{
+  fill: $body-color;
+}
+
+.fill-danger {
+  fill: $danger;
+}
+
+.fill-warning {
+  fill: $warning;
+}
+
+.fill-info {
+  fill: $info;
+}
+
+.fill-success {
+  fill: $success;
+}
+
+.fill-primary {
+  fill: $primary;
+}
+
+button:hover{
+  .fill-primary {
+    fill: #fff;
+  }
+}
+
+.btn-outline-primary.active{
+  .fill-primary {
+    fill: $body-bg;
+  }
+}
+
+.btn-outline-primary:not(:disabled):not(.disabled).active:focus{
+  box-shadow: none !important;
+}
+
+.control-action {
+  svg {
+    fill: $control-action-icon-color;
+    width: 1.2rem;
+    height: 1.2rem;
+
+    &:hover {
+      fill: $primary;
+    }
+  }
+}
+
+.paginator {
+  .btn {
+    text-decoration: none;
+    color: $paginator-button-color;
+
+    &:hover {
+      color: $primary;
+    }
+  }
+}
+
+@-webkit-keyframes spin {
+  from {
+    -ms-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -ms-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes spin {
+  from {
+    -ms-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -ms-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+.spin {
+  -webkit-animation: spin 2s linear infinite;
+  -moz-animation: spin 2s linear infinite;
+  -ms-animation: spin 2s linear infinite;
+  -o-animation: spin 2s linear infinite;
+  animation: spin 2s linear infinite;
+}
+
+.card{
+  .nav-pills .nav-link.active{
+    background: none;
+    color: $pill-link-active;
+    border-bottom: solid 2px $primary;
+  }
+
+  .nav-pills .nav-link{
+    font-size: 0.9rem;
+    border-radius: 0;
+    padding: 0.75rem 1.25rem;
+    color: $body-color;
+  }
+}
+
+.list-enter-active:not(.dontanimate) {
+  transition: background 1s linear;
+}
+
+.list-enter:not(.dontanimate), .list-leave-to:not(.dontanimate) {
+  background: $new-entries-bg;
+}
+
+#indexScreen{
+  td{
+    vertical-align: middle !important;
+  }
+}
+
+.card-bg-secondary{
+  background: $card-bg-secondary;
+}
+
+.code-bg{
+  background: $code-bg;
+}
+
+.disabled-watcher {
+  padding: 0.75rem;
+  color: #fff;
+  background: $danger;
+}
+
+/* Checks and Radio buttons */
+.container-checks {
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 22px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.container-checks input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom checkbox */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+}
+
+/* On mouse-over, add a grey background color */
+.container-checks:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+/* When the checkbox is checked, add a blue background */
+.container-checks input:checked ~ .checkmark {
+  background-color: #2196F3;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkmark when checked */
+.container-checks input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the checkmark/indicator */
+.container-checks .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}

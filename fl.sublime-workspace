@@ -1,0 +1,1887 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"timezones",
+				"date_default_timezone_set"
+			],
+			[
+				"mk",
+				"mktime"
+			],
+			[
+				"termina",
+				"terminating($cb)\tmixed"
+			],
+			[
+				"con",
+				"config\tL5 Config"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"hidden",
+				"hiddenBtns"
+			],
+			[
+				"produ",
+				"producto"
+			],
+			[
+				"prod",
+				"prods_id"
+			],
+			[
+				"Produ",
+				"ProductoservicioController\tProductoservicioController"
+			],
+			[
+				"urlT",
+				"urlTo"
+			],
+			[
+				"urlTo",
+				"urlToDetallesProductos"
+			],
+			[
+				"noti",
+				"notifications"
+			],
+			[
+				"notific",
+				"notificacion"
+			],
+			[
+				"map",
+				"map\t$.map()"
+			],
+			[
+				"container-li",
+				"container-links"
+			],
+			[
+				"notifica",
+				"notificaciones"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"chann",
+				"channelReads"
+			],
+			[
+				"ch",
+				"channelNews"
+			],
+			[
+				"show",
+				"showList"
+			],
+			[
+				"url",
+				"urlTo"
+			],
+			[
+				"nto",
+				"notifications"
+			],
+			[
+				"format",
+				"formatoFechaEspaniol($fecha, $hora)\tmixed"
+			],
+			[
+				"cantidad",
+				"cantidades_reales"
+			],
+			[
+				"aler",
+				"alert"
+			],
+			[
+				"_can",
+				"_cantidad_real"
+			],
+			[
+				"cantid",
+				"cantidad_real"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"produc",
+				"productos"
+			],
+			[
+				"Baj",
+				"BajoInventarioNotification\tBajoInventarioNotification"
+			],
+			[
+				"solicitu",
+				"solicitud"
+			],
+			[
+				"solicit",
+				"solicitud"
+			],
+			[
+				"fade",
+				"fadeInRight"
+			],
+			[
+				"anima",
+				"animated"
+			],
+			[
+				"cont",
+				"contRows"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"equipos",
+				"equipos_medicos"
+			],
+			[
+				"equo",
+				"equipo"
+			],
+			[
+				"product",
+				"producto_servicio_id"
+			],
+			[
+				"nomb",
+				"nombre_razon_social"
+			],
+			[
+				"opt",
+				"optP"
+			],
+			[
+				"Factur",
+				"FacturaCompra\tFacturaCompra"
+			],
+			[
+				"proveedo",
+				"proveedor_id"
+			],
+			[
+				"unsig",
+				"unsignedInteger"
+			],
+			[
+				"producto_se",
+				"productos_ofrecidos"
+			],
+			[
+				"text",
+				"text-center \tBootstrap 4 Class"
+			],
+			[
+				"Produc",
+				"ProductoServicioProveedor\tProductoServicioProveedor"
+			],
+			[
+				"prov",
+				"Proveedor"
+			],
+			[
+				"Maes",
+				"MaestraUnidadMedida\tMaestraUnidadMedida"
+			],
+			[
+				"formato",
+				"formatoFechaEspaniol($fecha, $hora)\tmixed"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"provee",
+				"proveedor_id"
+			],
+			[
+				"bel",
+				"belt\tBelongsTo"
+			],
+			[
+				"facturaCom",
+				"facturaCompra"
+			],
+			[
+				"Factu",
+				"FacturaCompra\tFacturaCompra"
+			],
+			[
+				"select",
+				"select2"
+			],
+			[
+				"FacturaComp",
+				"facturaCompra()\tmixed"
+			],
+			[
+				"tog",
+				"toggleClass\t.toggleClass()"
+			],
+			[
+				"urld",
+				"urlencode"
+			],
+			[
+				"tri",
+				"trigger\t.trigger()"
+			],
+			[
+				"proved",
+				"proveedor"
+			],
+			[
+				"mart",
+				"margin-top\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"tr",
+				"trigger\t.trigger()"
+			],
+			[
+				"_",
+				"_target"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"end",
+				"ends_with\tL5 Ends With"
+			],
+			[
+				"export",
+				"exportarPacientes"
+			],
+			[
+				"nombre",
+				"nombre_especialista"
+			],
+			[
+				"grupo",
+				"grupo_especialista"
+			],
+			[
+				"carga",
+				"cargarComplicacionesTags"
+			],
+			[
+				"array_fil",
+				"array_filter"
+			],
+			[
+				"keys",
+				"keysCheck"
+			],
+			[
+				"preregis",
+				"preregistro"
+			],
+			[
+				"CreatePre",
+				"CreatePreRegistroRequest\tCreatePreRegistroRequest"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"Pre",
+				"PreRegistro\tPreRegistro"
+			],
+			[
+				"read",
+				"ready\t$(document).ready"
+			],
+			[
+				"examenfisi",
+				"examenfisico"
+			],
+			[
+				"examen",
+				"examenfisico"
+			],
+			[
+				"descuento",
+				"descuento_adicional"
+			],
+			[
+				"mask",
+				"maskToNumber"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"json_d",
+				"json_encode"
+			],
+			[
+				"historiaclinicapreli",
+				"historiaclinicapreliminar"
+			],
+			[
+				"id_hc",
+				"id_hcPreliminar"
+			],
+			[
+				"formatoFecha",
+				"formatoFechaEspaniol"
+			],
+			[
+				"Respu",
+				"RespuestasPaciente\tRespuestasPaciente"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"paddi",
+				"padding-right\tproperty"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"Com",
+				"compania\tcompania"
+			],
+			[
+				"total_i",
+				"total_iva"
+			],
+			[
+				"idEs",
+				"idEstadoVisita"
+			],
+			[
+				"estados",
+				"estadovisita"
+			],
+			[
+				"data-c",
+				"data-css"
+			],
+			[
+				"MaestraPro",
+				"MaestraProductoUtilizado\tMaestraProductoUtilizado"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"array_re",
+				"array_reverse"
+			],
+			[
+				"user_",
+				"user_id_edit"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"maestraI",
+				"maestraImplante"
+			],
+			[
+				"maestraImpl",
+				"maestraImplantes"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"array_m",
+				"array_merge"
+			],
+			[
+				"nuevo",
+				"nuevos_marzo_2019"
+			],
+			[
+				"bg-",
+				"bg-dark \tBootstrap 4 Class"
+			],
+			[
+				"recorda",
+				"recordatorio"
+			],
+			[
+				"motivo",
+				"motivodeconsulta"
+			],
+			[
+				"encode",
+				"json_encode"
+			],
+			[
+				"tratamien",
+				"tratamientosFinal"
+			],
+			[
+				"tratamie",
+				"tratamientosFinal"
+			],
+			[
+				"pipedri",
+				"pipedrive"
+			],
+			[
+				"hid",
+				"hideForm"
+			],
+			[
+				"contenido",
+				"contenidoTemplate"
+			],
+			[
+				"get",
+				"getTemplatesGastos"
+			],
+			[
+				"idCotiz",
+				"idCotizacion"
+			],
+			[
+				"idCotiza",
+				"idCotizacionNueva"
+			],
+			[
+				"itemCotizacion",
+				"itemcotizacion"
+			],
+			[
+				"contTo",
+				"contRowsItems"
+			],
+			[
+				"descuen",
+				"descuento_final"
+			],
+			[
+				"selec",
+				"selectServicios"
+			],
+			[
+				"anim",
+				"animate\t.animate() with callback"
+			],
+			[
+				"po",
+				"posicion"
+			],
+			[
+				"Cuenta",
+				"CuentaContable\tCuentaContable"
+			],
+			[
+				"Paciente",
+				"paciente\tpaciente"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 300,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config.php",
+			"settings":
+			{
+				"buffer_size": 1151,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/js/components/todos/history.vue",
+			"settings":
+			{
+				"buffer_size": 1285,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_DOCUMENTATION/index.html",
+			"settings":
+			{
+				"buffer_size": 6633,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/index.php",
+			"settings":
+			{
+				"buffer_size": 3094,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Controllers/Profile.php",
+			"settings":
+			{
+				"buffer_size": 996,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/js/components/profile/index.vue",
+			"settings":
+			{
+				"buffer_size": 2262,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/login.php",
+			"settings":
+			{
+				"buffer_size": 3263,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Controllers/Login.php",
+			"settings":
+			{
+				"buffer_size": 2268,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"loca",
+				"File: Locate"
+			],
+			[
+				"loc",
+				"File: Locate"
+			],
+			[
+				"du",
+				"File: Duplicate"
+			],
+			[
+				"rrein",
+				"Laravel Artisan 5: Migrate:Install"
+			],
+			[
+				"dupli",
+				"File: Duplicate"
+			],
+			[
+				"lo",
+				"File: Locate"
+			],
+			[
+				"new file",
+				"File: New File Relative to Current View"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"termina",
+				"Terminal: Open in project folder"
+			],
+			[
+				"locate",
+				"File: Locate"
+			],
+			[
+				"REIN",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rien",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"abo",
+				"About"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Add Channel"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"newf",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"reid",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ne",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"new fil",
+				"File: New File Relative to Current View"
+			],
+			[
+				"",
+				"Bookmarks: Select All"
+			]
+		],
+		"width": 520.0
+	},
+	"console":
+	{
+		"height": 188.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/AMPPS/www/fl",
+		"/Applications/AMPPS/www/fl/_DOCUMENTATION",
+		"/Applications/AMPPS/www/fl/resources",
+		"/Applications/AMPPS/www/fl/resources/js",
+		"/Applications/AMPPS/www/fl/resources/js/components",
+		"/Applications/AMPPS/www/fl/resources/js/components/profile",
+		"/Applications/AMPPS/www/fl/resources/js/components/todos",
+		"/Applications/AMPPS/www/fl/resources/views"
+	],
+	"file_history":
+	[
+		"/Applications/AMPPS/www/fl/node_modules/public-encrypt/index.js",
+		"/Applications/AMPPS/www/fl/resources/views/login.php",
+		"/Applications/AMPPS/www/fl/app/Controllers/Login.php",
+		"/Applications/AMPPS/www/fl/resources/js/app.js",
+		"/Applications/AMPPS/www/fl/resources/js/functions.js",
+		"/Applications/AMPPS/www/fl/src/Request.php",
+		"/Applications/AMPPS/www/fl/config.php",
+		"/Applications/AMPPS/www/fl/resources/views/recovery.php",
+		"/Applications/AMPPS/www/fl/resources/views/forgot.php",
+		"/Applications/AMPPS/www/fl/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php",
+		"/Applications/AMPPS/www/fl/src/Libs/Mail/Message.php",
+		"/Applications/AMPPS/www/fl/app/Models/User.php",
+		"/Applications/AMPPS/www/fl/resources/views/mails/recovery.php",
+		"/Applications/AMPPS/www/fl/app/Controllers/Index.php",
+		"/Applications/AMPPS/www/fl/src/Libs/Mail/Mailer.php",
+		"/Applications/AMPPS/www/fl/src/Application.php",
+		"/Applications/AMPPS/www/fl/index.php",
+		"/Applications/AMPPS/www/fl/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/SimpleMessage.php",
+		"/Applications/AMPPS/www/fl/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/MimePart.php",
+		"/Applications/AMPPS/www/fl/resources/views/index.php",
+		"/Applications/AMPPS/www/fl/src/JsonResponse.php",
+		"/Applications/AMPPS/www/fl/composer.json",
+		"/Applications/AMPPS/www/fl/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php",
+		"/Applications/AMPPS/www/fl/src/Response.php",
+		"/Applications/AMPPS/www/fl/src/Exceptions/SuspiciousOperationException.php",
+		"/Applications/AMPPS/www/fl/public/js/app.js",
+		"/Applications/AMPPS/www/fl/node_modules/vuex/dist/vuex.common.js",
+		"/Applications/AMPPS/www/fl/node_modules/lodash/lodash.js",
+		"/Applications/AMPPS/www/fl/resources/js/routes.js",
+		"/Applications/AMPPS/www/fl/resources/js/store/actions.js",
+		"/Applications/AMPPS/www/fl/resources/js/components/todos/index.vue",
+		"/Applications/AMPPS/www/fl/vendor/illuminate/database/Eloquent/SoftDeletes.php",
+		"/Applications/AMPPS/www/fl/vendor/illuminate/database/Eloquent/SoftDeletingScope.php",
+		"/Applications/AMPPS/www/fl/app/Controllers/Todos.php",
+		"/Applications/AMPPS/www/fl/resources/js/components/todos/history.vue",
+		"/Applications/AMPPS/www/fl/resources/js/store/mutations.js",
+		"/Applications/AMPPS/www/fl/src/FileResponse.php",
+		"/Applications/AMPPS/www/fl/app/helpers.php",
+		"/Applications/AMPPS/www/hcfa/app/Models/ProductoServicioProveedor.php",
+		"/Applications/AMPPS/www/hcfa/app/Http/Controllers/UserController.php",
+		"/Applications/AMPPS/www/hcfa/app/Http/Controllers/ControlController.php",
+		"/Applications/AMPPS/www/hcfa/app/Http/Controllers/PacienteController.php",
+		"/Applications/AMPPS/www/hcfa/app/Models/Sximo.php",
+		"/Applications/AMPPS/www/hcfa/resources/views/layouts/login.blade.php",
+		"/Applications/AMPPS/www/hcfa/app/Http/routes.php",
+		"/Applications/AMPPS/www/hcfa/app/Http/Controllers/UsuariosController.php",
+		"/Applications/AMPPS/www/hcfa/resources/views/user/login.blade.php",
+		"/Applications/AMPPS/www/hcfa/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php",
+		"/Applications/AMPPS/www/hcfa/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/Applications/AMPPS/www/hcfa/app/Http/moduleroutes.php",
+		"/Applications/AMPPS/www/hcfa/vendor/symfony/http-foundation/ResponseHeaderBag.php",
+		"/Applications/AMPPS/www/hcfa/app/helpers.php",
+		"/Applications/AMPPS/www/hcfa/app/Http/Controllers/UploadController.php",
+		"/Applications/AMPPS/www/hcfa/resources/views/salida_inventarios/edit.blade.php",
+		"/Applications/AMPPS/www/hcfa/database/migrations/2019_08_09_145548_create_salida_inventarios_table.php",
+		"/Applications/AMPPS/www/hcfa/app/Models/SalidaInventario.php",
+		"/Applications/AMPPS/www/hcfa/resources/views/salida_inventarios/actions.blade.php",
+		"/Applications/AMPPS/www/hcfa/app/Http/Controllers/SalidaInventarioController.php",
+		"/Applications/AMPPS/www/hcfa/resources/views/solicitudes/show_fields.blade.php",
+		"/Applications/AMPPS/www/hcfa/resources/views/turnero/table.blade.php",
+		"/Applications/AMPPS/www/hcfa/resources/views/salida_inventarios/table.blade.php",
+		"/Applications/AMPPS/www/hcfa/app/Http/Controllers/SolicitudController.php",
+		"/Applications/AMPPS/www/hcfa/app/Models/Solicitud.php",
+		"/Applications/AMPPS/www/hcfa/app/Notifications/CambiaEstadoSolicitudCompra.php",
+		"/Applications/AMPPS/www/hcfa/resources/views/layouts/notifications.blade.php",
+		"/Applications/AMPPS/www/hcfa/.env",
+		"/Applications/AMPPS/www/hcfa/resources/views/salida_inventarios/index.blade.php",
+		"/Applications/AMPPS/www/hcfa/resources/views/turnero/index.blade.php",
+		"/Applications/AMPPS/www/hcfa/app/Events/NuevaSolicitudCompra.php",
+		"/Applications/AMPPS/www/hcfa/app/Events/BroadcastNotification.php",
+		"/Applications/AMPPS/www/hcfa/app/Events/BajoInventario.php",
+		"/Applications/AMPPS/www/hcfa/app/Traits/UserId.php",
+		"/Applications/AMPPS/www/hcfa/app/Providers/EventServiceProvider.php",
+		"/Applications/AMPPS/www/hcfa/app/Notifications/NuevaSolicitudCompraNotification.php",
+		"/Applications/AMPPS/www/hcfa/app/Listeners/NotificarSolicitudCompra.php",
+		"/Applications/AMPPS/www/hcfa/app/Models/Insumo.php",
+		"/Applications/AMPPS/www/hcfa/app/Listeners/NotificarUsuariosBajoInventario.php",
+		"/Applications/AMPPS/www/hcfa/app/User.php",
+		"/Applications/AMPPS/www/hcfa/app/Events/DeleteNotification.php",
+		"/Applications/AMPPS/www/hcfa/app/Events/ReadNotification.php",
+		"/Applications/AMPPS/www/hcfa/vendor/laravel-notification-channels/backport/src/Notifications/DatabaseNotification.php",
+		"/Applications/AMPPS/www/hcfa/app/Http/Controllers/NotificationsController.php",
+		"/Applications/AMPPS/www/hcfa/resources/views/layouts/app.blade.php",
+		"/Applications/AMPPS/www/hcfa/resources/views/notificaciones/table.blade.php",
+		"/Applications/AMPPS/www/hcfa/resources/views/notificaciones/index.blade.php",
+		"/Applications/AMPPS/www/hcfa/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php",
+		"/Applications/AMPPS/www/hcfa/vendor/laravel/framework/src/Illuminate/Broadcasting/BroadcastEvent.php",
+		"/Applications/AMPPS/www/hcfa/resources/views/layouts/sidemenu.blade.php",
+		"/Applications/AMPPS/www/hcfa/app/Listeners/NotificationSent.php",
+		"/Applications/AMPPS/www/hcfa/vendor/aws/aws-sdk-php/src/functions.php",
+		"/Applications/AMPPS/www/hcfa/vendor/laravel/framework/src/Illuminate/Pagination/BootstrapThreePresenter.php",
+		"/Applications/AMPPS/www/hcfa/vendor/laravel/framework/src/Illuminate/Pagination/AbstractPaginator.php",
+		"/Applications/AMPPS/www/hcfa/vendor/laravel/framework/src/Illuminate/Pagination/LengthAwarePaginator.php",
+		"/Applications/AMPPS/www/hcfa/app/Http/Controllers/NotificationController.php",
+		"/Applications/AMPPS/www/hcfa/config/broadcasting.php",
+		"/Applications/AMPPS/www/hcfa/app/Providers/AppServiceProvider.php",
+		"/Applications/AMPPS/www/hcfa/resources/views/facturas/modals.blade.php",
+		"/Applications/AMPPS/www/hcfa/vendor/laravel/framework/src/Illuminate/Foundation/Application.php",
+		"/Applications/AMPPS/www/hcfa/vendor/laravel-notification-channels/backport/src/Notifications/Notification.php",
+		"/Applications/AMPPS/www/hcfa/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php",
+		"/Applications/AMPPS/www/hcfa/app/Http/Kernel.php",
+		"/Applications/AMPPS/www/hcfa/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
+		"/Applications/AMPPS/www/hcfa/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php",
+		"/Applications/AMPPS/www/hcfa/vendor/symfony/http-kernel/HttpKernel.php",
+		"/Applications/AMPPS/www/hcfa/public/js/vue.js",
+		"/Applications/AMPPS/www/hcfa/app/Http/Controllers/LreservasController.php",
+		"/Applications/AMPPS/www/hcfa/resources/views/salida_inventarios/show.blade.php",
+		"/Applications/AMPPS/www/hcfa/resources/views/salida_inventarios/show_fields.blade.php",
+		"/Applications/AMPPS/www/hcfa/app/Http/Controllers/InventarioController.php",
+		"/Applications/AMPPS/www/hcfa/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/Applications/AMPPS/www/hcfa/resources/views/salida_inventarios/fields.blade.php",
+		"/Applications/AMPPS/www/hcfa/app/Library/SiteHelpers.php",
+		"/Applications/AMPPS/www/hcfa/apigenjson/salidas_inventarios.json",
+		"/Applications/AMPPS/www/hcfa/resources/views/salida_inventarios/create.blade.php",
+		"/Applications/AMPPS/www/hcfa/app/Http/Controllers/MuebleController.php",
+		"/Applications/AMPPS/www/hcfa/vendor/guzzle/guzzle/docs/webservice-client/webservice-client.rst",
+		"/Applications/AMPPS/www/hcfa/apigenjson/inventarios.json",
+		"/Applications/AMPPS/www/hcfa/database/migrations/2019_08_09_135607_create_inventarios_table.php",
+		"/Applications/AMPPS/www/hcfa/app/Models/Productoservicio.php",
+		"/Applications/AMPPS/www/hcfa/app/Http/Controllers/InsumoController.php",
+		"/Applications/AMPPS/www/hcfa/resources/views/inventarios/index.blade.php",
+		"/Applications/AMPPS/www/hcfa/resources/views/inventarios/table.blade.php",
+		"/Applications/AMPPS/www/hcfa/resources/views/inventarios/actions.blade.php",
+		"/Applications/AMPPS/www/hcfa/apigenjson/cotizaciones.json",
+		"/Applications/AMPPS/www/hcfa/app/Notifications/BajoInventarioNotification.php",
+		"/Applications/AMPPS/www/hcfa/vendor/laravel-notification-channels/backport/src/Notifications/RoutesNotifications.php",
+		"/Applications/AMPPS/www/hcfa/vendor/laravel-notification-channels/backport/src/Notifications/NotificationServiceProvider.php",
+		"/Applications/AMPPS/www/hcfa/vendor/laravel-notification-channels/backport/src/Notifications/ChannelManager.php"
+	],
+	"find":
+	{
+		"height": 84.0
+	},
+	"find_in_files":
+	{
+		"height": 200.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"step3",
+			"Three",
+			"step3",
+			"18th",
+			"July",
+			"Docs",
+			"DEMO_VERSION",
+			"$request",
+			"Exception",
+			"getMethod",
+			"Httpmethod",
+			"getMethod",
+			"httpMethod",
+			"this->content",
+			"return",
+			"getContent",
+			"this",
+			"getContent",
+			"password",
+			"email",
+			"head",
+			"username",
+			"email",
+			"username",
+			"action",
+			"formLogin",
+			"email",
+			"recoveryPost",
+			"text",
+			"email",
+			"text",
+			"Email",
+			"email",
+			"excludeAuth",
+			"message",
+			"value",
+			"World",
+			"</",
+			"return",
+			"domain",
+			" =",
+			"prepareLinkRecovery",
+			"email",
+			"Controllers",
+			"forgot",
+			"Login",
+			"failedRecipients",
+			"send(",
+			"createMessage",
+			"body",
+			"getBody",
+			"setbody",
+			"body",
+			"Mundo",
+			"swift",
+			"this->swift",
+			"address",
+			"setFrom",
+			"setTo",
+			"instance",
+			"password",
+			"25",
+			"setSwift",
+			"setMailer",
+			"message",
+			"Contracts",
+			"Sunube",
+			"database",
+			"terminating",
+			"excludeAuth",
+			"Exception",
+			"clearTodos",
+			"doneEdit",
+			"created_at",
+			"moment",
+			"toSql",
+			"fetch",
+			"getHistory",
+			"index",
+			"/label",
+			"label",
+			"Multiple",
+			"Documents",
+			"Multiple",
+			"Archives",
+			"';",
+			"code",
+			"name",
+			"document",
+			"documents",
+			"multiple",
+			": 0,",
+			"error",
+			"type",
+			"self"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 300,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								34
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 61.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1151
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1321.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/js/components/todos/history.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1285,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								88,
+								88
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_DOCUMENTATION/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6633,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4923,
+								4923
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6575.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "resources/views/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3094,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3066,
+								3066
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3806.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/Controllers/Profile.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 996,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								347,
+								347
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 330.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "resources/js/components/profile/index.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2143,
+								2143
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4127.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "resources/views/login.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2223,
+								2223
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4131.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/Controllers/Login.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								594,
+								594
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1209.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 46.0
+	},
+	"input":
+	{
+		"height": 84.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 240.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "",
+	"project": "fl.sublime-project",
+	"replace":
+	{
+		"height": 88.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"confi",
+				"config.php"
+			],
+			[
+				"controlllogin",
+				"app/Controllers/Login.php"
+			],
+			[
+				"controllersPro",
+				"app/Controllers/Profile.php"
+			],
+			[
+				"publicindex",
+				"node_modules/public-encrypt/index.js"
+			],
+			[
+				"Request",
+				"src/Request.php"
+			],
+			[
+				"con",
+				"config.php"
+			],
+			[
+				"Reque",
+				"src/Request.php"
+			],
+			[
+				"controLogin",
+				"app/Controllers/Login.php"
+			],
+			[
+				"Requ",
+				"src/Request.php"
+			],
+			[
+				"ModelsUser",
+				"app/Models/User.php"
+			],
+			[
+				"Login",
+				"app/Controllers/Login.php"
+			],
+			[
+				"Controllerinde",
+				"app/Controllers/Index.php"
+			],
+			[
+				"conlogin",
+				"app/Controllers/Login.php"
+			],
+			[
+				"Appli",
+				"src/Application.php"
+			],
+			[
+				"config",
+				"config.php"
+			],
+			[
+				"Reques",
+				"src/Request.php"
+			],
+			[
+				"appli",
+				"src/Application.php"
+			],
+			[
+				"Respons",
+				"src/Response.php"
+			],
+			[
+				"Softdele",
+				"vendor/illuminate/database/Eloquent/SoftDeletes.php"
+			],
+			[
+				"Todos.php",
+				"app/Controllers/Todos.php"
+			],
+			[
+				"SoftDelete",
+				"vendor/illuminate/database/Eloquent/SoftDeletingScope.php"
+			],
+			[
+				"Todo.pp",
+				"app/Controllers/Todos.php"
+			],
+			[
+				"hel",
+				"app/helpers.php"
+			],
+			[
+				"PRoducto",
+				"app/Models/ProductoServicioProveedor.php"
+			],
+			[
+				"Usuarios",
+				"app/Http/Controllers/UsuariosController.php"
+			],
+			[
+				"USerCon",
+				"app/Http/Controllers/UserController.php"
+			],
+			[
+				"ModuleController",
+				"app/Http/Controllers/Sximo/ModuleController.php"
+			],
+			[
+				"route",
+				"app/Http/routes.php"
+			],
+			[
+				"AppUSer",
+				"app/User.php"
+			],
+			[
+				"UsuariosController",
+				"app/Http/Controllers/UsuariosController.php"
+			],
+			[
+				"userlogin",
+				"resources/views/user/login.blade.php"
+			],
+			[
+				"UserController",
+				"app/Http/Controllers/UserController.php"
+			],
+			[
+				"rout",
+				"app/Http/routes.php"
+			],
+			[
+				"moduleroutes",
+				"app/Http/moduleroutes.php"
+			],
+			[
+				"rou",
+				"app/Http/routes.php"
+			],
+			[
+				"pacientCon",
+				"app/Http/Controllers/PacienteController.php"
+			],
+			[
+				"Controlcont",
+				"app/Http/Controllers/ControlController.php"
+			],
+			[
+				"Uploacon",
+				"app/Http/Controllers/UploadController.php"
+			],
+			[
+				"Hel",
+				"app/helpers.php"
+			],
+			[
+				"SalidaIn",
+				"app/Models/SalidaInventario.php"
+			],
+			[
+				"SalidaIncon",
+				"app/Http/Controllers/SalidaInventarioController.php"
+			],
+			[
+				"modelsSalid",
+				"app/Models/SalidaInventario.php"
+			],
+			[
+				"create_salid",
+				"database/migrations/2019_08_09_145548_create_salida_inventarios_table.php"
+			],
+			[
+				"turnerotable",
+				"resources/views/turnero/table.blade.php"
+			],
+			[
+				"turneroindex",
+				"resources/views/turnero/index.blade.php"
+			],
+			[
+				"SalidIncon",
+				"app/Http/Controllers/SalidaInventarioController.php"
+			],
+			[
+				"salidainventinde",
+				"resources/views/salida_inventarios/index.blade.php"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"help",
+				"app/helpers.php"
+			],
+			[
+				"laynoti",
+				"resources/views/layouts/notifications.blade.php"
+			],
+			[
+				"solicshowf",
+				"resources/views/solicitudes/show_fields.blade.php"
+			],
+			[
+				"CambiaEstadoSolicitudCompra",
+				"app/Notifications/CambiaEstadoSolicitudCompra.php"
+			],
+			[
+				"Solicicon",
+				"app/Http/Controllers/SolicitudController.php"
+			],
+			[
+				"lanoti",
+				"resources/views/layouts/notifications.blade.php"
+			],
+			[
+				"EventSer",
+				"app/Providers/EventServiceProvider.php"
+			],
+			[
+				"modelsSoli",
+				"app/Models/Solicitud.php"
+			],
+			[
+				"NuevaSolicitudCompraNotification",
+				"app/Notifications/NuevaSolicitudCompraNotification.php"
+			],
+			[
+				"NotificarSolicitudCompra",
+				"app/Listeners/NotificarSolicitudCompra.php"
+			],
+			[
+				"NuevaSolicitudCompra",
+				"app/Events/NuevaSolicitudCompra.php"
+			],
+			[
+				"Insumo",
+				"app/Models/Insumo.php"
+			],
+			[
+				"illEventDispa",
+				"vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php"
+			],
+			[
+				"BroadcastE",
+				"vendor/laravel/framework/src/Illuminate/Broadcasting/BroadcastEvent.php"
+			],
+			[
+				"sideme",
+				"resources/views/layouts/sidemenu.blade.php"
+			],
+			[
+				"Func",
+				"vendor/aws/aws-sdk-php/src/functions.php"
+			],
+			[
+				"DeleteNotification",
+				"app/Events/DeleteNotification.php"
+			],
+			[
+				"BroadcastNotification",
+				"app/Events/BroadcastNotification.php"
+			],
+			[
+				"laynotific",
+				"resources/views/layouts/notifications.blade.php"
+			],
+			[
+				"LengthAwarePaginator",
+				"vendor/laravel/framework/src/Illuminate/Pagination/LengthAwarePaginator.php"
+			],
+			[
+				"appblade",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"notificationscon",
+				"app/Http/Controllers/NotificationsController.php"
+			],
+			[
+				"notificcon",
+				"app/Http/Controllers/NotificationController.php"
+			],
+			[
+				"ReadNotification",
+				"app/Events/ReadNotification.php"
+			],
+			[
+				"appser",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"configbroad",
+				"config/broadcasting.php"
+			],
+			[
+				"FoundationAppi",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Application.php"
+			],
+			[
+				"vendorNotication",
+				"vendor/laravel-notification-channels/backport/src/Notifications/Notification.php"
+			],
+			[
+				"APPBLAD",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"appblad",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"appHttpKer",
+				"app/Http/Kernel.php"
+			],
+			[
+				"HttpKer",
+				"vendor/symfony/http-kernel/HttpKernel.php"
+			],
+			[
+				"contrNotifications",
+				"app/Http/Controllers/Notifications.php"
+			],
+			[
+				"Notificcon",
+				"app/Http/Controllers/NotificationController.php"
+			],
+			[
+				"vuejs",
+				"public/js/vue.js"
+			],
+			[
+				"Lreser",
+				"app/Http/Controllers/LreservasController.php"
+			],
+			[
+				"Sxi",
+				"app/Models/Sximo.php"
+			],
+			[
+				"salidainindex",
+				"resources/views/salida_inventarios/index.blade.php"
+			],
+			[
+				"Help",
+				"app/helpers.php"
+			],
+			[
+				"Inventariocon",
+				"app/Http/Controllers/InventarioController.php"
+			],
+			[
+				"EloquentModel",
+				"vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php"
+			],
+			[
+				"modelsalid",
+				"app/Models/SalidaInventario.php"
+			],
+			[
+				"2019_08_09_145548_create_salida_inventarios_table",
+				"database/migrations/2019_08_09_145548_create_salida_inventarios_table.php"
+			],
+			[
+				"Site",
+				"app/Library/SiteHelpers.php"
+			],
+			[
+				"ModelSol",
+				"app/Models/Solicitud.php"
+			],
+			[
+				"ModelsSalid",
+				"app/Models/SalidaInventario.php"
+			],
+			[
+				"salidainjs",
+				"apigenjson/salidas_inventarios.json"
+			],
+			[
+				"salida_inindex",
+				"resources/views/salida_inventarios/index.blade.php"
+			],
+			[
+				"Mueblcon",
+				"app/Http/Controllers/MuebleController.php"
+			],
+			[
+				"salida_inventariosindex",
+				"resources/views/salida_inventarios/index.blade.php"
+			],
+			[
+				"SalidaInventarioController",
+				"app/Http/Controllers/SalidaInventarioController.php"
+			],
+			[
+				"web",
+				"vendor/guzzle/guzzle/docs/webservice-client/webservice-client.rst"
+			],
+			[
+				"sidem",
+				"resources/views/layouts/sidemenu.blade.php"
+			],
+			[
+				"modelsProduc",
+				"app/Models/Productoservicio.php"
+			],
+			[
+				"insumocon",
+				"app/Http/Controllers/InsumoController.php"
+			],
+			[
+				"inventariosindex",
+				"resources/views/inventarios/index.blade.php"
+			],
+			[
+				"InventarioController",
+				"app/Http/Controllers/InventarioController.php"
+			],
+			[
+				"2019_08_09_135607_create_inventarios_table.php",
+				"database/migrations/2019_08_09_135607_create_inventarios_table.php"
+			],
+			[
+				"NotificationSent",
+				"app/Listeners/NotificationSent.php"
+			],
+			[
+				"EventSe",
+				"app/Providers/EventServiceProvider.php"
+			],
+			[
+				"listNotificationSent",
+				"app/Listeners/NotificationSent.php"
+			],
+			[
+				"modelsInsum",
+				"app/Models/Insumo.php"
+			],
+			[
+				"BajoInventarioNotification",
+				"app/Notifications/BajoInventarioNotification.php"
+			],
+			[
+				"foundhelp",
+				"vendor/laravel/framework/src/Illuminate/Foundation/helpers.php"
+			],
+			[
+				"Bajo",
+				"app/Events/BajoInventario.php"
+			],
+			[
+				"NotificarUsuariosBajoInventario",
+				"app/Listeners/NotificarUsuariosBajoInventario.php"
+			],
+			[
+				"BajoInventario",
+				"app/Events/BajoInventario.php"
+			],
+			[
+				"ModelsInsu",
+				"app/Models/Insumo.php"
+			],
+			[
+				"Appuser",
+				"app/User.php"
+			],
+			[
+				"helpe",
+				"app/helpers.php"
+			],
+			[
+				"compos",
+				"composer.json"
+			],
+			[
+				"configapp.p",
+				"config/app.php"
+			],
+			[
+				"Notifi",
+				"app/Models/Notification.php"
+			],
+			[
+				"",
+				"app/Models/Solicitud.php"
+			],
+			[
+				"create_soli",
+				"database/migrations/2019_08_09_074456_create_solicituds_table.php"
+			],
+			[
+				"Soliccon",
+				"app/Http/Controllers/SolicitudController.php"
+			],
+			[
+				"appse",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				" ddcb68e3ccc043a7fdda9c3465d15b89",
+				"storage/framework/views/ddcb68e3ccc043a7fdda9c3465d15b89"
+			],
+			[
+				"UserId",
+				"app/Traits/UserId.php"
+			],
+			[
+				"Solic",
+				"app/Models/Solicitud.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
