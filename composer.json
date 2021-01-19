@@ -8,7 +8,7 @@
     ],
     "require": {
     	"symfony/var-dumper": "^4.2",
-        "illuminate/database": "^5.8",
+        "illuminate/database": "^6.20",
         "swiftmailer/swiftmailer": "^6.0"
     },
     "autoload": {
